@@ -1,2 +1,2 @@
 ## How to use NavigationView
-** Navigation title
+* Navigation title
